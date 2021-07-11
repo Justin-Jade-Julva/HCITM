@@ -1,0 +1,13 @@
+c:\users\qcu\documents\visual studio 2013\Projects\HCITM\HCITM\bin\Debug\HCITM.exe.config
+c:\users\qcu\documents\visual studio 2013\Projects\HCITM\HCITM\bin\Debug\HCITM.exe
+c:\users\qcu\documents\visual studio 2013\Projects\HCITM\HCITM\bin\Debug\HCITM.pdb
+c:\users\qcu\documents\visual studio 2013\Projects\HCITM\HCITM\bin\Debug\HCITM.xml
+c:\users\qcu\documents\visual studio 2013\Projects\HCITM\HCITM\obj\Debug\HCITM.vbprojResolveAssemblyReference.cache
+c:\users\qcu\documents\visual studio 2013\Projects\HCITM\HCITM\obj\Debug\HCITM.Form1.resources
+c:\users\qcu\documents\visual studio 2013\Projects\HCITM\HCITM\obj\Debug\HCITM.Resources.resources
+c:\users\qcu\documents\visual studio 2013\Projects\HCITM\HCITM\obj\Debug\HCITM.vbproj.GenerateResource.Cache
+c:\users\qcu\documents\visual studio 2013\Projects\HCITM\HCITM\obj\Debug\HCITM.exe
+c:\users\qcu\documents\visual studio 2013\Projects\HCITM\HCITM\obj\Debug\HCITM.xml
+c:\users\qcu\documents\visual studio 2013\Projects\HCITM\HCITM\obj\Debug\HCITM.pdb
+C:\Users\QCU\documents\visual studio 2013\Projects\HCITM\HCITM\obj\Debug\HCITM.appointment.resources
+C:\Users\QCU\documents\visual studio 2013\Projects\HCITM\HCITM\obj\Debug\HCITM.loginRegister.resources
